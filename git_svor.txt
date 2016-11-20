@@ -37,3 +37,5 @@ working directory er það directory sem þú vinnur á. Staging area er þar se
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 þegar þú ætlar að vinna á einhverju í sama verkefni sem tengist ekki öðrum pörtum á verkefninu. þú færð nýtt working directory og riposatoryið er hreint og skipulagt
+
+Kári Jóhannesson
