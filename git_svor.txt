@@ -31,3 +31,6 @@ mjög góð leið til að halda utan um verkefni sérstaklega þegar margir eru 
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 eins oft og hægt er. Þú vilt geta haldið utan um allar breytingar sem gerðar eru svo þú þurfir ekki að fara of langt til baka ef verkefnið er gert vitlaust. Auk þess viltu að verkefnið sé up to date
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+working directory er það directory sem þú vinnur á. Staging area er þar sem þú geymir breytingar sem þú átt eftir að commita. Repository er þar sem commit verkefnið er commitað og geymt
