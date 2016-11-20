@@ -28,3 +28,6 @@ Git spurningar og svör
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 mjög góð leið til að halda utan um verkefni sérstaklega þegar margir eru að vinna að sama verkefni. Þá er hægt að vista allt saman og auðveldlega uppfæra allar skrár sem þið eruð að vinna á
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+eins oft og hægt er. Þú vilt geta haldið utan um allar breytingar sem gerðar eru svo þú þurfir ekki að fara of langt til baka ef verkefnið er gert vitlaust. Auk þess viltu að verkefnið sé up to date
