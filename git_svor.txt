@@ -22,3 +22,6 @@ Git spurningar og svör
 	git diff sýnir þér muninn á þínu eintaki og index.
 	git diff --staged sýnir það sem þú ert búið að gera tilbuið fyrir uppfæringu
 	git diff commit1 commit2 sýnir muninn á ákveðnum commitum sem þú velur
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+útgáfustýringin skráir allar breytingar sem þú gerir og nefnir þær svo þú getir auðveldlega náð í fyrri útgáfur 
