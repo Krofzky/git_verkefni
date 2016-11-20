@@ -11,6 +11,14 @@ Git spurningar og svör
 	git clone - gerir afrit í af skrá í nýtt directory. Gagnlegt ef svo þú þurfir ekki að gera alla skránna aftur
 	git log - sýnir commit logs. Gott til að sjá hvað er búið að gera og hvenær
 	git status - sýnir þér stöðuna á þínu eintaki af verkefninu miðað við þá sem er á netinu. flott til að athuga hvort þær skrár sem þú ert að nota séu ekki up to date
-	git diff - sýnir þér muninn á þínu eintaki og working tree eintakinu. Gagnlegt til að sjá muninn á þínu eintaki og working tree eintakinu nákvæmlega td þegar þú vilt vita hvað einhver annar er búinn að breyta í fileinum
+	git diff - sýnir þér muninn á index og working tree eintakinu. Gagnlegt til að sjá muninn á þínu eintaki og working tree eintakinu nákvæmlega td þegar þú vilt vita hvað einhver annar er búinn að breyta í fileinum
 	git checkout - uppfærir working treeið til að vera það sama og ákveðið tré eða index. Gagnlegt til að uppfæra vinnusvæðið þitt
-	
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+	git diff sýnir þér muninn á þínu eintaki og index.
+	git diff --staged sýnir það sem þú ert búið að gera tilbuið fyrir uppfæringu
+	git diff commit1 commit2 sýnir muninn á ákveðnum commitum sem þú velur
